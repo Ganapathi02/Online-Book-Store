@@ -1,4 +1,12 @@
 # Online-Book-Store
+
+
+#INSTALL 
+STS TOOLS 
+#SET
+SET THE PORT NUMBER :8081
+#FINALLY
+THEN RUN THE APPLICATION
 <h1 align="center">Hi 👋, I'm GANAPATHI V</h1>
 <h3 align="center">A passionate Java Full stack developer from India</h3>
 
